@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1559077437 source:c:\users\mail2\desktop\signal_statistics\robust_signalstd\waveform.cpp
+
+1559079179 source:c:\users\mail2\desktop\signal_statistics\robust_signalstd\standarddeviation.cpp
+	"standardDeviation.hpp"
+
+1559079145 c:\users\mail2\desktop\signal_statistics\robust_signalstd\standarddeviation.hpp
+	<cmath>
+	<stdint.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1559072937 source:c:\users\mail2\desktop\signal_statistics\robust_signalvariance\waveforms.cpp
+
+1559074069 source:c:\users\mail2\desktop\signal_statistics\robust_signalvariance\variance.cpp
+	"variance.hpp"
+
+1559074036 c:\users\mail2\desktop\signal_statistics\robust_signalvariance\variance.hpp
+	<stdint.h>
+
+1559074145 source:c:\users\mail2\desktop\signal_statistics\robust_signalvariance\main.cpp
+	<iostream>
+	"variance.hpp"
+
